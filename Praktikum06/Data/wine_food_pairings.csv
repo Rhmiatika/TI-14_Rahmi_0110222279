@@ -1,0 +1,501 @@
+wine_type,wine_category,food_item,food_category,cuisine,pairing_quality,quality_label,description
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,Spanish,2,Poor,Heuristic pairing assessment
+Grenache,Red,charcuterie board,Salty Snack,French,3,Neutral,Heuristic pairing assessment
+Madeira,Fortified,lemon tart,Dessert,French,4,Good,Acidic wine balances acidic food
+Cabernet Sauvignon,Red,roast lamb,Red Meat,Mexican,5,Excellent,Tannic red complements red meat fat
+Viognier,White,duck à l’orange,Poultry,Vietnamese,2,Poor,Heuristic pairing assessment
+Pinot Noir,Red,citrus salad,Acidic,Argentinian,4,Good,Acidic wine balances acidic food
+Albariño,White,oysters,Seafood,Vietnamese,4,Good,Crisp acidity suits seafood
+Sangiovese,Red,citrus salad,Acidic,Moroccan,4,Good,Acidic wine balances acidic food
+Pinot Noir,Red,cheese platter,Cheese,Italian,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,citrus salad,Acidic,American BBQ,4,Good,Acidic wine balances acidic food
+Grenache,Red,bacon burger,Pork,Argentinian,4,Good,Heuristic pairing assessment
+Sangiovese,Red,chicken curry,Poultry,German,2,Poor,Heavy wine can dominate poultry
+Sauternes,Dessert,lemon tart,Dessert,Spanish,4,Good,Acidic wine balances acidic food
+Cava,Sparkling,charcuterie board,Salty Snack,Italian,3,Neutral,Heuristic pairing assessment
+Albariño,White,vegetable curry,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,citrus salad,Acidic,American BBQ,4,Good,Acidic wine balances acidic food
+Viognier,White,alfredo pasta,Creamy,German,4,Good,Richer body matches creamy textures
+Riesling (dry),White,Thai curry,Spicy,Mexican,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,bacon burger,Pork,Vietnamese,2,Poor,Heuristic pairing assessment
+Syrah/Shiraz,Red,roast lamb,Red Meat,Thai,5,Excellent,Tannic red complements red meat fat
+Chardonnay,White,bacon burger,Pork,Italian,3,Neutral,Heuristic pairing assessment
+Viognier,White,roast chicken with herbs,Poultry,Middle Eastern,4,Good,Lighter wines fit poultry
+Grüner Veltliner,White,shrimp scampi,Seafood,Japanese,3,Neutral,Crisp acidity suits seafood
+Nebbiolo,Red,Thai curry,Spicy,American BBQ,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,Spanish,3,Neutral,Heuristic pairing assessment
+Port,Fortified,cheesecake,Dessert,Middle Eastern,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,beef stew,Red Meat,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Viognier,White,chicken curry,Poultry,Vietnamese,4,Good,Lighter wines fit poultry
+Cabernet Sauvignon,Red,grilled burger,Smoky BBQ,Thai,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,roast chicken with herbs,Poultry,German,2,Poor,Heavy wine can dominate poultry
+Gewürztraminer,White,Indian vindaloo,Spicy,Thai,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,stir-fried tofu,Vegetarian,French,3,Neutral,Heuristic pairing assessment
+Merlot,Red,bacon burger,Pork,Thai,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,mushroom risotto,Vegetarian,French,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,stir-fried tofu,Vegetarian,Japanese,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,shrimp scampi,Seafood,French,4,Good,Crisp acidity suits seafood
+Torrontés,White,Thai curry,Spicy,Moroccan,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,grilled salmon,Seafood,German,3,Neutral,Tannic reds clash with delicate seafood
+Nebbiolo,Red,Thai curry,Spicy,French,3,Neutral,Heuristic pairing assessment
+Madeira,Fortified,mac and cheese,Cheese,Japanese,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,sorbet,Dessert,Ethiopian,4,Good,Sweet/sparkling pairs with dessert
+Ice Wine,Dessert,oysters,Seafood,Japanese,3,Neutral,Tannic reds clash with delicate seafood
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,Ethiopian,2,Poor,Heuristic pairing assessment
+Nebbiolo,Red,grilled ribeye,Red Meat,Thai,2,Poor,Heuristic pairing assessment
+Port,Fortified,cheese platter,Cheese,Italian,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,cream of mushroom soup,Creamy,Mexican,4,Good,Richer body matches creamy textures
+Grenache,Red,olives and cheese,Salty Snack,Italian,3,Neutral,Heuristic pairing assessment
+Madeira,Fortified,mac and cheese,Cheese,Greek,3,Neutral,Heuristic pairing assessment
+Gewürztraminer,White,mac and cheese,Cheese,Mexican,4,Good,Heuristic pairing assessment
+Sangiovese,Red,chicken curry,Poultry,Middle Eastern,2,Poor,Heavy wine can dominate poultry
+Ice Wine,Dessert,chicken curry,Poultry,Vietnamese,1,Terrible,Heavy wine can dominate poultry
+Riesling (dry),White,Sichuan noodles,Spicy,Korean,4,Good,Heuristic pairing assessment
+Sangiovese,Red,mac and cheese,Cheese,Vietnamese,4,Good,Heuristic pairing assessment
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,German,4,Good,Tannic red complements red meat fat
+Viognier,White,chicken curry,Poultry,Middle Eastern,4,Good,Lighter wines fit poultry
+Syrah/Shiraz,Red,grilled burger,Smoky BBQ,Italian,2,Poor,Heuristic pairing assessment
+Gewürztraminer,White,Indian vindaloo,Spicy,Moroccan,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,roast lamb,Red Meat,American BBQ,4,Good,Tannic red complements red meat fat
+Merlot,Red,bacon burger,Pork,Korean,2,Poor,Heuristic pairing assessment
+Sauvignon Blanc,White,mushroom risotto,Vegetarian,American BBQ,4,Good,Heuristic pairing assessment
+Cava,Sparkling,oysters,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood
+Malbec,Red,grilled burger,Smoky BBQ,Greek,2,Poor,Heuristic pairing assessment
+Chardonnay,White,fondue,Cheese,Japanese,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,vegetable curry,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,bacon burger,Pork,Spanish,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,roast chicken with herbs,Poultry,Greek,3,Neutral,Lighter wines fit poultry
+Ice Wine,Dessert,charcuterie board,Salty Snack,Chinese (Sichuan),4,Good,Heuristic pairing assessment
+Ice Wine,Dessert,bacon burger,Pork,American BBQ,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,sorbet,Dessert,Mexican,4,Good,Sweet/sparkling pairs with dessert
+Nebbiolo,Red,grilled ribeye,Red Meat,Spanish,5,Excellent,Idealized perfect pairing example for contrast
+Merlot,Red,bacon burger,Pork,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Chardonnay,White,cheese platter,Cheese,French,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,Italian,2,Poor,Heuristic pairing assessment
+Syrah/Shiraz,Red,roast lamb,Red Meat,Argentinian,4,Good,Tannic red complements red meat fat
+Madeira,Fortified,fondue,Cheese,Japanese,4,Good,Heuristic pairing assessment
+Nebbiolo,Red,grilled ribeye,Red Meat,Argentinian,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,bbq ribs,Smoky BBQ,Argentinian,4,Good,Heuristic pairing assessment
+Champagne,Sparkling,olives and cheese,Salty Snack,Middle Eastern,2,Poor,Heuristic pairing assessment
+Nebbiolo,Red,carbonara,Pork,Chinese (Sichuan),3,Neutral,Too lean for creamy dish
+Malbec,Red,grilled burger,Smoky BBQ,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,citrus salad,Acidic,Mexican,5,Excellent,Idealized perfect pairing example for contrast
+Nebbiolo,Red,bbq brisket,Red Meat,Thai,4,Good,Tannic red complements red meat fat
+Nebbiolo,Red,bbq brisket,Red Meat,Korean,4,Good,Tannic red complements red meat fat
+Cabernet Sauvignon,Red,grilled burger,Smoky BBQ,Ethiopian,2,Poor,Heuristic pairing assessment
+Zinfandel,Red,bbq ribs,Smoky BBQ,Moroccan,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,beef stew,Red Meat,German,3,Neutral,Heuristic pairing assessment
+Gewürztraminer,White,Sichuan noodles,Spicy,Italian,2,Poor,Heuristic pairing assessment
+Champagne,Sparkling,shrimp scampi,Seafood,Chinese (Sichuan),4,Good,Crisp acidity suits seafood
+Viognier,White,mac and cheese,Cheese,Greek,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Indian,2,Poor,Heuristic pairing assessment
+Sangiovese,Red,chicken curry,Poultry,Thai,2,Poor,Heavy wine can dominate poultry
+Sangiovese,Red,mushroom risotto,Vegetarian,Thai,2,Poor,Heuristic pairing assessment
+Nebbiolo,Red,bbq brisket,Red Meat,Chinese (Sichuan),4,Good,Tannic red complements red meat fat
+Sauternes,Dessert,duck à l’orange,Poultry,Chinese (Sichuan),2,Poor,Heuristic pairing assessment
+Grenache,Red,cream of mushroom soup,Creamy,Spanish,1,Terrible,Too lean for creamy dish
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,French,4,Good,Tannic red complements red meat fat
+Malbec,Red,bbq brisket,Red Meat,Mexican,3,Neutral,Tannic red complements red meat fat
+Cabernet Sauvignon,Red,fondue,Cheese,French,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,chicken curry,Poultry,Japanese,4,Good,Lighter wines fit poultry
+Malbec,Red,smoked sausage,Smoky BBQ,Korean,4,Good,Heuristic pairing assessment
+Ice Wine,Dessert,chicken curry,Poultry,Middle Eastern,1,Terrible,Heavy wine can dominate poultry
+Cava,Sparkling,oysters,Seafood,Italian,3,Neutral,Crisp acidity suits seafood
+Grenache,Red,pork tenderloin,Pork,Thai,4,Good,Light/medium red suits richer poultry/pork
+Grüner Veltliner,White,chocolate mousse,Dessert,Middle Eastern,2,Poor,Dry table wine clashes with dessert sweetness
+Chardonnay,White,chicken curry,Poultry,Japanese,4,Good,Lighter wines fit poultry
+Port,Fortified,fondue,Cheese,German,3,Neutral,Heuristic pairing assessment
+Gewürztraminer,White,Thai curry,Spicy,Greek,3,Neutral,Heuristic pairing assessment
+Port,Fortified,cheese platter,Cheese,Middle Eastern,4,Good,Heuristic pairing assessment
+Sauvignon Blanc,White,mushroom risotto,Vegetarian,Vietnamese,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,fondue,Cheese,Vietnamese,4,Good,Heuristic pairing assessment
+Merlot,Red,pork tenderloin,Pork,Ethiopian,4,Good,Light/medium red suits richer poultry/pork
+Pinot Noir,Red,beef stew,Red Meat,Greek,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,shrimp scampi,Seafood,Italian,3,Neutral,Crisp acidity suits seafood
+Malbec,Red,bbq ribs,Smoky BBQ,Mexican,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,bbq ribs,Smoky BBQ,Korean,2,Poor,Heuristic pairing assessment
+Cabernet Sauvignon,Red,grilled ribeye,Red Meat,Ethiopian,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,Japanese,1,Terrible,Deliberately bad pairing example for contrast
+Chardonnay,White,carbonara,Creamy,Greek,5,Excellent,Richer body matches creamy textures
+Merlot,Red,carbonara,Pork,Greek,3,Neutral,Too lean for creamy dish
+Merlot,Red,mixed nuts,Salty Snack,Indian,3,Neutral,Heuristic pairing assessment
+Viognier,White,bacon burger,Pork,Indian,2,Poor,Heuristic pairing assessment
+Syrah/Shiraz,Red,roast lamb,Red Meat,Korean,3,Neutral,Tannic red complements red meat fat
+Sauternes,Dessert,chocolate mousse,Dessert,Italian,4,Good,Sweet/sparkling pairs with dessert
+Pinot Noir,Red,citrus salad,Acidic,Japanese,4,Good,Acidic wine balances acidic food
+Port,Fortified,fondue,Cheese,Greek,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,Sichuan noodles,Spicy,Moroccan,2,Poor,Heuristic pairing assessment
+Zinfandel,Red,grilled burger,Smoky BBQ,Argentinian,3,Neutral,Heuristic pairing assessment
+Viognier,White,carbonara,Pork,French,4,Good,Richer body matches creamy textures
+Malbec,Red,roast lamb,Red Meat,Thai,4,Good,Tannic red complements red meat fat
+Sauternes,Dessert,pork tenderloin,Pork,French,3,Neutral,Heuristic pairing assessment
+Grenache,Red,olives and cheese,Salty Snack,Vietnamese,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,roast lamb,Red Meat,Indian,4,Good,Tannic red complements red meat fat
+Champagne,Sparkling,grilled salmon,Seafood,Spanish,4,Good,Crisp acidity suits seafood
+Sauternes,Dessert,stir-fried tofu,Vegetarian,Middle Eastern,4,Good,Heuristic pairing assessment
+Chardonnay,White,bacon burger,Pork,Moroccan,4,Good,Heuristic pairing assessment
+Grenache,Red,cream of mushroom soup,Creamy,Italian,2,Poor,Too lean for creamy dish
+Sauvignon Blanc,White,shrimp scampi,Seafood,American BBQ,4,Good,Crisp acidity suits seafood
+Merlot,Red,olives and cheese,Salty Snack,Vietnamese,4,Good,Heuristic pairing assessment
+Champagne,Sparkling,fish tacos,Seafood,Argentinian,4,Good,Crisp acidity suits seafood
+Riesling (dry),White,roast lamb,Red Meat,Korean,2,Poor,Delicate wine overwhelmed by red meat
+Riesling (dry),White,Thai curry,Spicy,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Zinfandel,Red,bbq ribs,Smoky BBQ,French,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,caprese salad,Acidic,Korean,3,Neutral,Heuristic pairing assessment
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,American BBQ,2,Poor,Heuristic pairing assessment
+Zinfandel,Red,smoked sausage,Smoky BBQ,Ethiopian,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,fish tacos,Seafood,Japanese,4,Good,Crisp acidity suits seafood
+Grüner Veltliner,White,mushroom risotto,Vegetarian,French,3,Neutral,Heuristic pairing assessment
+Grenache,Red,carbonara,Pork,Spanish,2,Poor,Too lean for creamy dish
+Nebbiolo,Red,roast lamb,Red Meat,Chinese (Sichuan),4,Good,Tannic red complements red meat fat
+Gewürztraminer,White,Thai curry,Spicy,Moroccan,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,cheese platter,Cheese,American BBQ,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,vegetable curry,Vegetarian,German,4,Good,Heuristic pairing assessment
+Albariño,White,oysters,Seafood,Greek,1,Terrible,Deliberately bad pairing example for contrast
+Malbec,Red,beef stew,Red Meat,Spanish,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,mushroom risotto,Vegetarian,Greek,2,Poor,Heuristic pairing assessment
+Merlot,Red,pork tenderloin,Pork,Indian,4,Good,Light/medium red suits richer poultry/pork
+Nebbiolo,Red,grilled ribeye,Red Meat,Italian,2,Poor,Heuristic pairing assessment
+Port,Fortified,cheese platter,Cheese,Greek,3,Neutral,Heuristic pairing assessment
+Albariño,White,cheesecake,Dessert,French,1,Terrible,Dry table wine clashes with dessert sweetness
+Cabernet Sauvignon,Red,roast lamb,Red Meat,Spanish,4,Good,Tannic red complements red meat fat
+Malbec,Red,bbq brisket,Red Meat,American BBQ,4,Good,Tannic red complements red meat fat
+Grüner Veltliner,White,mushroom risotto,Vegetarian,Vietnamese,3,Neutral,Heuristic pairing assessment
+Merlot,Red,cheese platter,Cheese,Vietnamese,4,Good,Heuristic pairing assessment
+Grenache,Red,bacon burger,Pork,Thai,3,Neutral,Heuristic pairing assessment
+Sauvignon Blanc,White,alfredo pasta,Creamy,Moroccan,1,Terrible,Too lean for creamy dish
+Cava,Sparkling,grilled salmon,Seafood,German,4,Good,Crisp acidity suits seafood
+Port,Fortified,cheese platter,Cheese,Italian,4,Good,Heuristic pairing assessment
+Cabernet Sauvignon,Red,grilled ribeye,Red Meat,Argentinian,3,Neutral,Heuristic pairing assessment
+Viognier,White,mac and cheese,Cheese,Vietnamese,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,beef stew,Red Meat,Spanish,3,Neutral,Heuristic pairing assessment
+Viognier,White,carbonara,Pork,Moroccan,4,Good,Richer body matches creamy textures
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,Japanese,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,beef stew,Red Meat,Moroccan,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,grilled ribeye,Red Meat,Chinese (Sichuan),5,Excellent,Idealized perfect pairing example for contrast
+Ice Wine,Dessert,carbonara,Pork,Argentinian,5,Excellent,Richer body matches creamy textures
+Sauternes,Dessert,chicken curry,Poultry,American BBQ,3,Neutral,Heavy wine can dominate poultry
+Merlot,Red,pork tenderloin,Pork,Moroccan,4,Good,Light/medium red suits richer poultry/pork
+Barbera,Red,mac and cheese,Cheese,Greek,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,citrus salad,Acidic,Mexican,4,Good,Acidic wine balances acidic food
+Sauternes,Dessert,fish tacos,Seafood,Middle Eastern,2,Poor,Tannic reds clash with delicate seafood
+Gewürztraminer,White,Sichuan noodles,Spicy,Indian,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,bbq ribs,Smoky BBQ,Thai,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,oysters,Seafood,Japanese,3,Neutral,Crisp acidity suits seafood
+Nebbiolo,Red,grilled ribeye,Red Meat,Moroccan,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,American BBQ,3,Neutral,Off-dry sweetness calms spice
+Port,Fortified,lemon tart,Dessert,Vietnamese,1,Terrible,Low-acid wine seems flabby vs acids
+Champagne,Sparkling,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood
+Nebbiolo,Red,Sichuan noodles,Spicy,Korean,4,Good,Heuristic pairing assessment
+Sauternes,Dessert,lemon tart,Dessert,Spanish,5,Excellent,Acidic wine balances acidic food
+Riesling (dry),White,Sichuan noodles,Spicy,Mexican,4,Good,Heuristic pairing assessment
+Cabernet Sauvignon,Red,grilled burger,Smoky BBQ,Argentinian,3,Neutral,Heuristic pairing assessment
+Viognier,White,bacon burger,Pork,German,2,Poor,Heuristic pairing assessment
+Pinot Noir,Red,vegetable curry,Vegetarian,French,3,Neutral,Heuristic pairing assessment
+Grenache,Red,olives and cheese,Salty Snack,German,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,bbq ribs,Smoky BBQ,Ethiopian,3,Neutral,Heuristic pairing assessment
+Albariño,White,oysters,Seafood,Vietnamese,3,Neutral,Crisp acidity suits seafood
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,Middle Eastern,4,Good,Heuristic pairing assessment
+Viognier,White,duck à l’orange,Poultry,American BBQ,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,beef stew,Red Meat,Moroccan,5,Excellent,Idealized perfect pairing example for contrast
+Merlot,Red,carbonara,Pork,American BBQ,3,Neutral,Too lean for creamy dish
+Port,Fortified,chocolate mousse,Dessert,Indian,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,roast chicken with herbs,Poultry,Italian,5,Excellent,Lighter wines fit poultry
+Sauternes,Dessert,mushroom risotto,Vegetarian,Spanish,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Korean,3,Neutral,Off-dry sweetness calms spice
+Riesling (dry),White,Thai curry,Spicy,American BBQ,2,Poor,Heuristic pairing assessment
+Chardonnay,White,duck à l’orange,Poultry,Middle Eastern,2,Poor,Heuristic pairing assessment
+Sauternes,Dessert,duck à l’orange,Poultry,Japanese,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,mushroom risotto,Vegetarian,Moroccan,1,Terrible,Deliberately bad pairing example for contrast
+Sangiovese,Red,stir-fried tofu,Vegetarian,Japanese,3,Neutral,Heuristic pairing assessment
+Port,Fortified,mac and cheese,Cheese,Thai,3,Neutral,Heuristic pairing assessment
+Merlot,Red,carbonara,Creamy,Korean,1,Terrible,Too lean for creamy dish
+Syrah/Shiraz,Red,grilled ribeye,Red Meat,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,chicken curry,Poultry,Greek,2,Poor,Heavy wine can dominate poultry
+Albariño,White,vegetable curry,Vegetarian,Greek,4,Good,Heuristic pairing assessment
+Viognier,White,roast chicken with herbs,Poultry,American BBQ,3,Neutral,Lighter wines fit poultry
+Ice Wine,Dessert,bacon burger,Pork,Thai,2,Poor,Heuristic pairing assessment
+Grenache,Red,olives and cheese,Salty Snack,Argentinian,4,Good,Heuristic pairing assessment
+Merlot,Red,carbonara,Creamy,French,2,Poor,Too lean for creamy dish
+Sauternes,Dessert,carbonara,Pork,Korean,4,Good,Richer body matches creamy textures
+Sauternes,Dessert,grilled burger,Smoky BBQ,Korean,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,grilled ribeye,Red Meat,French,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,cheese platter,Cheese,Korean,5,Excellent,Idealized perfect pairing example for contrast
+Cabernet Sauvignon,Red,beef stew,Red Meat,Moroccan,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,vegetable curry,Vegetarian,Chinese (Sichuan),4,Good,Heuristic pairing assessment
+Chenin Blanc,White,fondue,Cheese,Middle Eastern,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Chinese (Sichuan),4,Good,Off-dry sweetness calms spice
+Sangiovese,Red,stir-fried tofu,Vegetarian,Korean,3,Neutral,Heuristic pairing assessment
+Sauvignon Blanc,White,oysters,Seafood,Indian,5,Excellent,Crisp acidity suits seafood
+Syrah/Shiraz,Red,bbq brisket,Red Meat,Middle Eastern,4,Good,Tannic red complements red meat fat
+Cabernet Sauvignon,Red,grilled burger,Smoky BBQ,Mexican,3,Neutral,Heuristic pairing assessment
+Merlot,Red,cream of mushroom soup,Creamy,Greek,1,Terrible,Too lean for creamy dish
+Merlot,Red,mixed nuts,Salty Snack,Korean,4,Good,Heuristic pairing assessment
+Cava,Sparkling,charcuterie board,Salty Snack,Vietnamese,2,Poor,Heuristic pairing assessment
+Cabernet Sauvignon,Red,bbq ribs,Smoky BBQ,American BBQ,3,Neutral,Heuristic pairing assessment
+Merlot,Red,charcuterie board,Salty Snack,American BBQ,3,Neutral,Heuristic pairing assessment
+Merlot,Red,pork tenderloin,Pork,Spanish,4,Good,Light/medium red suits richer poultry/pork
+Merlot,Red,charcuterie board,Salty Snack,Ethiopian,3,Neutral,Heuristic pairing assessment
+Grenache,Red,alfredo pasta,Creamy,Korean,1,Terrible,Too lean for creamy dish
+Cabernet Sauvignon,Red,grilled burger,Smoky BBQ,Chinese (Sichuan),2,Poor,Heuristic pairing assessment
+Chardonnay,White,chicken curry,Poultry,Italian,4,Good,Lighter wines fit poultry
+Champagne,Sparkling,olives and cheese,Salty Snack,Greek,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,bbq brisket,Red Meat,Spanish,2,Poor,Delicate wine overwhelmed by red meat
+Provence Rosé,Rosé,grilled ribeye,Red Meat,Thai,5,Excellent,Idealized perfect pairing example for contrast
+Merlot,Red,bacon burger,Pork,German,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,roast chicken with herbs,Poultry,German,3,Neutral,Heavy wine can dominate poultry
+Malbec,Red,grilled ribeye,Red Meat,Thai,4,Good,Heuristic pairing assessment
+Grenache,Red,carbonara,Pork,French,1,Terrible,Too lean for creamy dish
+Torrontés,White,Sichuan noodles,Spicy,Indian,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,vegetable curry,Vegetarian,Vietnamese,4,Good,Heuristic pairing assessment
+Chardonnay,White,cheese platter,Cheese,German,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,bbq ribs,Smoky BBQ,Ethiopian,4,Good,Heuristic pairing assessment
+Viognier,White,roast chicken with herbs,Poultry,Argentinian,5,Excellent,Lighter wines fit poultry
+Syrah/Shiraz,Red,roast lamb,Red Meat,Moroccan,4,Good,Tannic red complements red meat fat
+Chardonnay,White,bacon burger,Pork,Japanese,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,grilled burger,Smoky BBQ,American BBQ,2,Poor,Heuristic pairing assessment
+Pinot Noir,Red,roast chicken with herbs,Poultry,French,4,Good,Lighter wines fit poultry
+Gewürztraminer,White,Thai curry,Spicy,Argentinian,3,Neutral,Heuristic pairing assessment
+Madeira,Fortified,lemon tart,Dessert,Mexican,4,Good,Acidic wine balances acidic food
+Sangiovese,Red,gazpacho,Acidic,Indian,4,Good,Acidic wine balances acidic food
+Cabernet Sauvignon,Red,grilled ribeye,Red Meat,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,bacon burger,Pork,German,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Thai curry,Spicy,Korean,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,vegetable curry,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Chinese (Sichuan),5,Excellent,Off-dry sweetness calms spice
+Provence Rosé,Rosé,citrus salad,Acidic,Greek,4,Good,Acidic wine balances acidic food
+Ice Wine,Dessert,grilled burger,Smoky BBQ,German,4,Good,Heuristic pairing assessment
+Nebbiolo,Red,grilled ribeye,Red Meat,Italian,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,beef stew,Red Meat,Mexican,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,bacon burger,Pork,Argentinian,4,Good,Heuristic pairing assessment
+Riesling (dry),White,Thai curry,Spicy,American BBQ,4,Good,Heuristic pairing assessment
+Syrah/Shiraz,Red,grilled ribeye,Red Meat,Greek,2,Poor,Heuristic pairing assessment
+Torrontés,White,Sichuan noodles,Spicy,Thai,3,Neutral,Heuristic pairing assessment
+Malbec,Red,fondue,Cheese,Moroccan,3,Neutral,Heuristic pairing assessment
+Sauvignon Blanc,White,oysters,Seafood,Japanese,3,Neutral,Crisp acidity suits seafood
+Port,Fortified,cheese platter,Cheese,American BBQ,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,shrimp scampi,Seafood,Moroccan,5,Excellent,Idealized perfect pairing example for contrast
+Viognier,White,pork tenderloin,Pork,Argentinian,2,Poor,Heuristic pairing assessment
+Albariño,White,alfredo pasta,Creamy,American BBQ,2,Poor,Too lean for creamy dish
+Ice Wine,Dessert,stir-fried tofu,Vegetarian,Japanese,3,Neutral,Heuristic pairing assessment
+Albariño,White,fish tacos,Seafood,German,5,Excellent,Crisp acidity suits seafood
+Sauternes,Dessert,bacon burger,Pork,Moroccan,3,Neutral,Heuristic pairing assessment
+Albariño,White,alfredo pasta,Creamy,Thai,2,Poor,Too lean for creamy dish
+Albariño,White,shrimp scampi,Seafood,German,5,Excellent,Crisp acidity suits seafood
+Syrah/Shiraz,Red,bbq brisket,Red Meat,Vietnamese,3,Neutral,Tannic red complements red meat fat
+Gewürztraminer,White,Sichuan noodles,Spicy,Indian,1,Terrible,Deliberately bad pairing example for contrast
+Nebbiolo,Red,cream of mushroom soup,Creamy,Indian,1,Terrible,Too lean for creamy dish
+Sauternes,Dessert,roast chicken with herbs,Poultry,Italian,3,Neutral,Heavy wine can dominate poultry
+Sauvignon Blanc,White,grilled salmon,Seafood,French,4,Good,Crisp acidity suits seafood
+Albariño,White,grilled salmon,Seafood,Vietnamese,5,Excellent,Crisp acidity suits seafood
+Chardonnay,White,pork tenderloin,Pork,Argentinian,2,Poor,Heuristic pairing assessment
+Gamay (Beaujolais),Red,oysters,Seafood,Greek,2,Poor,Tannic reds clash with delicate seafood
+Cava,Sparkling,olives and cheese,Salty Snack,Mexican,4,Good,Heuristic pairing assessment
+Albariño,White,grilled salmon,Seafood,French,4,Good,Crisp acidity suits seafood
+Riesling (dry),White,Indian vindaloo,Spicy,American BBQ,1,Terrible,Deliberately bad pairing example for contrast
+Merlot,Red,pork tenderloin,Pork,Indian,1,Terrible,Deliberately bad pairing example for contrast
+Port,Fortified,cheese platter,Cheese,German,2,Poor,Heuristic pairing assessment
+Champagne,Sparkling,fish tacos,Seafood,Indian,4,Good,Crisp acidity suits seafood
+Port,Fortified,cheesecake,Dessert,Mexican,2,Poor,Heuristic pairing assessment
+Tempranillo,Red,fondue,Cheese,French,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Argentinian,4,Good,Off-dry sweetness calms spice
+Pinot Noir,Red,gazpacho,Acidic,American BBQ,3,Neutral,Acidic wine balances acidic food
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,German,2,Poor,Heuristic pairing assessment
+Grenache,Red,pork tenderloin,Pork,Moroccan,4,Good,Light/medium red suits richer poultry/pork
+Pinot Noir,Red,mushroom risotto,Vegetarian,Italian,3,Neutral,Heuristic pairing assessment
+Grenache,Red,carbonara,Creamy,American BBQ,1,Terrible,Too lean for creamy dish
+Nebbiolo,Red,Sichuan noodles,Spicy,Argentinian,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,caprese salad,Acidic,Italian,4,Good,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,American BBQ,3,Neutral,Heuristic pairing assessment
+Malbec,Red,smoked sausage,Smoky BBQ,Mexican,4,Good,Heuristic pairing assessment
+Chardonnay,White,mac and cheese,Cheese,Vietnamese,2,Poor,Heuristic pairing assessment
+Grüner Veltliner,White,caprese salad,Acidic,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,mushroom risotto,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Viognier,White,bacon burger,Pork,Spanish,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,fish tacos,Seafood,Italian,3,Neutral,Crisp acidity suits seafood
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,American BBQ,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,Thai curry,Spicy,Thai,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,grilled salmon,Seafood,Vietnamese,5,Excellent,Crisp acidity suits seafood
+Madeira,Fortified,mac and cheese,Cheese,Korean,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,chicken curry,Poultry,Middle Eastern,4,Good,Lighter wines fit poultry
+Merlot,Red,bacon burger,Pork,Chinese (Sichuan),1,Terrible,Deliberately bad pairing example for contrast
+Ice Wine,Dessert,smoked sausage,Smoky BBQ,Argentinian,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,citrus salad,Acidic,American BBQ,4,Good,Acidic wine balances acidic food
+Gamay (Beaujolais),Red,shrimp scampi,Seafood,German,2,Poor,Tannic reds clash with delicate seafood
+Malbec,Red,bbq brisket,Red Meat,Korean,4,Good,Tannic red complements red meat fat
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,American BBQ,4,Good,Tannic red complements red meat fat
+Albariño,White,vegetable curry,Vegetarian,Greek,3,Neutral,Heuristic pairing assessment
+Malbec,Red,bbq ribs,Smoky BBQ,Spanish,3,Neutral,Heuristic pairing assessment
+Madeira,Fortified,mac and cheese,Cheese,Japanese,4,Good,Heuristic pairing assessment
+Sauternes,Dessert,grilled burger,Smoky BBQ,Moroccan,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,mushroom risotto,Vegetarian,Vietnamese,3,Neutral,Heuristic pairing assessment
+Grenache,Red,carbonara,Pork,Ethiopian,2,Poor,Too lean for creamy dish
+Ice Wine,Dessert,lemon tart,Dessert,Japanese,5,Excellent,Acidic wine balances acidic food
+Madeira,Fortified,mac and cheese,Cheese,Argentinian,3,Neutral,Heuristic pairing assessment
+Viognier,White,cheese platter,Cheese,Japanese,3,Neutral,Heuristic pairing assessment
+Champagne,Sparkling,cheese platter,Cheese,German,4,Good,Heuristic pairing assessment
+Nebbiolo,Red,Sichuan noodles,Spicy,American BBQ,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Thai curry,Spicy,American BBQ,3,Neutral,Heuristic pairing assessment
+Chardonnay,White,carbonara,Creamy,Indian,4,Good,Richer body matches creamy textures
+Chardonnay,White,chicken curry,Poultry,Argentinian,4,Good,Lighter wines fit poultry
+Sangiovese,Red,duck à l’orange,Poultry,Italian,4,Good,Light/medium red suits richer poultry/pork
+Nebbiolo,Red,roast lamb,Red Meat,Moroccan,4,Good,Tannic red complements red meat fat
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,Indian,4,Good,Tannic red complements red meat fat
+Syrah/Shiraz,Red,cheese platter,Cheese,Greek,3,Neutral,Heuristic pairing assessment
+Albariño,White,fish tacos,Seafood,Italian,4,Good,Crisp acidity suits seafood
+Sauvignon Blanc,White,vegetable curry,Vegetarian,Middle Eastern,1,Terrible,Deliberately bad pairing example for contrast
+Pinot Noir,Red,gazpacho,Acidic,Spanish,5,Excellent,Idealized perfect pairing example for contrast
+Nebbiolo,Red,oysters,Seafood,Korean,1,Terrible,Tannic reds clash with delicate seafood
+Grüner Veltliner,White,stir-fried tofu,Vegetarian,Japanese,2,Poor,Heuristic pairing assessment
+Grüner Veltliner,White,oysters,Seafood,Japanese,3,Neutral,Crisp acidity suits seafood
+Port,Fortified,cheese platter,Cheese,Greek,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,vegetable curry,Vegetarian,Japanese,3,Neutral,Heuristic pairing assessment
+Malbec,Red,grilled burger,Smoky BBQ,Indian,2,Poor,Heuristic pairing assessment
+Ice Wine,Dessert,vegetable curry,Vegetarian,Greek,2,Poor,Heuristic pairing assessment
+Merlot,Red,bacon burger,Pork,Spanish,2,Poor,Heuristic pairing assessment
+Torrontés,White,Indian vindaloo,Spicy,Mexican,3,Neutral,Heuristic pairing assessment
+Cava,Sparkling,charcuterie board,Salty Snack,Ethiopian,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Argentinian,2,Poor,Heuristic pairing assessment
+Merlot,Red,carbonara,Pork,Spanish,2,Poor,Too lean for creamy dish
+Syrah/Shiraz,Red,bbq ribs,Smoky BBQ,Spanish,3,Neutral,Heuristic pairing assessment
+Cava,Sparkling,shrimp scampi,Seafood,Italian,5,Excellent,Crisp acidity suits seafood
+Nebbiolo,Red,grilled ribeye,Red Meat,Thai,3,Neutral,Heuristic pairing assessment
+Port,Fortified,mac and cheese,Cheese,Middle Eastern,2,Poor,Heuristic pairing assessment
+Albariño,White,shrimp scampi,Seafood,Vietnamese,4,Good,Crisp acidity suits seafood
+Sangiovese,Red,chicken curry,Poultry,Italian,3,Neutral,Heavy wine can dominate poultry
+Madeira,Fortified,fondue,Cheese,Vietnamese,3,Neutral,Heuristic pairing assessment
+Torrontés,White,Thai curry,Spicy,Argentinian,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Ethiopian,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,vegetable curry,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Grenache,Red,caprese salad,Acidic,French,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,bbq ribs,Smoky BBQ,American BBQ,4,Good,Heuristic pairing assessment
+Malbec,Red,bbq ribs,Smoky BBQ,Mexican,4,Good,Heuristic pairing assessment
+Merlot,Red,bacon burger,Pork,Moroccan,3,Neutral,Heuristic pairing assessment
+Sauternes,Dessert,chicken curry,Poultry,French,3,Neutral,Heavy wine can dominate poultry
+Nebbiolo,Red,beef stew,Red Meat,Indian,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Thai curry,Spicy,Moroccan,1,Terrible,Deliberately bad pairing example for contrast
+Malbec,Red,smoked sausage,Smoky BBQ,Indian,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat
+Grüner Veltliner,White,mushroom risotto,Vegetarian,Middle Eastern,3,Neutral,Heuristic pairing assessment
+Sauvignon Blanc,White,shrimp scampi,Seafood,Middle Eastern,4,Good,Crisp acidity suits seafood
+Grenache,Red,mixed nuts,Salty Snack,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,smoked sausage,Smoky BBQ,Ethiopian,2,Poor,Heuristic pairing assessment
+Zinfandel,Red,grilled burger,Smoky BBQ,American BBQ,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food
+Chardonnay,White,mac and cheese,Cheese,Vietnamese,3,Neutral,Heuristic pairing assessment
+Viognier,White,cheese platter,Cheese,Moroccan,1,Terrible,Deliberately bad pairing example for contrast
+Ice Wine,Dessert,cheesecake,Dessert,Vietnamese,3,Neutral,Sweet/sparkling pairs with dessert
+Riesling (dry),White,Thai curry,Spicy,Thai,2,Poor,Heuristic pairing assessment
+Grenache,Red,bacon burger,Pork,Middle Eastern,4,Good,Heuristic pairing assessment
+Champagne,Sparkling,grilled salmon,Seafood,Italian,5,Excellent,Idealized perfect pairing example for contrast
+Malbec,Red,smoked sausage,Smoky BBQ,Korean,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Indian,3,Neutral,Heuristic pairing assessment
+Albariño,White,mushroom risotto,Vegetarian,Italian,3,Neutral,Heuristic pairing assessment
+Gewürztraminer,White,Indian vindaloo,Spicy,Ethiopian,4,Good,Heuristic pairing assessment
+Grenache,Red,cream of mushroom soup,Creamy,Moroccan,1,Terrible,Too lean for creamy dish
+Nebbiolo,Red,roast lamb,Red Meat,Argentinian,4,Good,Tannic red complements red meat fat
+Sauternes,Dessert,chicken curry,Poultry,German,3,Neutral,Heavy wine can dominate poultry
+Albariño,White,chocolate mousse,Dessert,German,2,Poor,Dry table wine clashes with dessert sweetness
+Albariño,White,vegetable curry,Vegetarian,Korean,3,Neutral,Heuristic pairing assessment
+Malbec,Red,bbq ribs,Smoky BBQ,Argentinian,3,Neutral,Heuristic pairing assessment
+Torrontés,White,Indian vindaloo,Spicy,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Malbec,Red,bbq brisket,Red Meat,Thai,4,Good,Tannic red complements red meat fat
+Sauternes,Dessert,sorbet,Dessert,Moroccan,5,Excellent,Sweet/sparkling pairs with dessert
+Merlot,Red,mixed nuts,Salty Snack,Italian,3,Neutral,Heuristic pairing assessment
+Albariño,White,stir-fried tofu,Vegetarian,Moroccan,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,stir-fried tofu,Vegetarian,French,2,Poor,Heuristic pairing assessment
+Cava,Sparkling,olives and cheese,Salty Snack,Argentinian,3,Neutral,Heuristic pairing assessment
+Pinot Noir,Red,stir-fried tofu,Vegetarian,Japanese,4,Good,Heuristic pairing assessment
+Chardonnay,White,bacon burger,Pork,American BBQ,3,Neutral,Heuristic pairing assessment
+Syrah/Shiraz,Red,bbq brisket,Red Meat,Thai,5,Excellent,Tannic red complements red meat fat
+Madeira,Fortified,chocolate mousse,Dessert,Thai,2,Poor,Heuristic pairing assessment
+Sauvignon Blanc,White,cheesecake,Dessert,Mexican,3,Neutral,Dry table wine clashes with dessert sweetness
+Sangiovese,Red,citrus salad,Acidic,Thai,4,Good,Acidic wine balances acidic food
+Syrah/Shiraz,Red,roast lamb,Red Meat,Mexican,3,Neutral,Tannic red complements red meat fat
+Torrontés,White,fondue,Cheese,Vietnamese,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Thai,5,Excellent,Off-dry sweetness calms spice
+Pinot Noir,Red,roast chicken with herbs,Poultry,German,5,Excellent,Lighter wines fit poultry
+Madeira,Fortified,mac and cheese,Cheese,French,3,Neutral,Heuristic pairing assessment
+Cava,Sparkling,olives and cheese,Salty Snack,American BBQ,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,smoked sausage,Smoky BBQ,Vietnamese,3,Neutral,Heuristic pairing assessment
+Viognier,White,duck à l’orange,Poultry,Thai,2,Poor,Heuristic pairing assessment
+Zinfandel,Red,grilled burger,Smoky BBQ,Vietnamese,3,Neutral,Heuristic pairing assessment
+Viognier,White,bacon burger,Pork,Ethiopian,4,Good,Heuristic pairing assessment
+Ice Wine,Dessert,roast chicken with herbs,Poultry,Italian,2,Poor,Heavy wine can dominate poultry
+Port,Fortified,chocolate mousse,Dessert,Middle Eastern,2,Poor,Heuristic pairing assessment
+Sangiovese,Red,fondue,Cheese,German,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,roast chicken with herbs,Poultry,German,2,Poor,Heavy wine can dominate poultry
+Port,Fortified,mac and cheese,Cheese,Italian,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,vegetable curry,Vegetarian,Spanish,4,Good,Heuristic pairing assessment
+Gewürztraminer,White,Indian vindaloo,Spicy,Chinese (Sichuan),2,Poor,Heuristic pairing assessment
+Sangiovese,Red,vegetable curry,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,shrimp scampi,Seafood,Vietnamese,1,Terrible,Tannic reds clash with delicate seafood
+Champagne,Sparkling,mixed nuts,Salty Snack,Indian,2,Poor,Heuristic pairing assessment
+Viognier,White,pork tenderloin,Pork,French,2,Poor,Heuristic pairing assessment
+Sangiovese,Red,caprese salad,Acidic,Moroccan,3,Neutral,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Vietnamese,2,Poor,Heuristic pairing assessment
+Viognier,White,carbonara,Pork,Middle Eastern,4,Good,Richer body matches creamy textures
+Grüner Veltliner,White,chocolate mousse,Dessert,Greek,1,Terrible,Dry table wine clashes with dessert sweetness
+Malbec,Red,beef stew,Red Meat,Indian,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,beef stew,Red Meat,Argentinian,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,bbq ribs,Smoky BBQ,Indian,3,Neutral,Heuristic pairing assessment
+Grenache,Red,carbonara,Pork,Moroccan,2,Poor,Too lean for creamy dish
+Zinfandel,Red,grilled burger,Smoky BBQ,Moroccan,4,Good,Heuristic pairing assessment
+Nebbiolo,Red,roast lamb,Red Meat,Spanish,3,Neutral,Tannic red complements red meat fat
+Champagne,Sparkling,mixed nuts,Salty Snack,Thai,4,Good,Heuristic pairing assessment
+Pinot Noir,Red,citrus salad,Acidic,Spanish,4,Good,Acidic wine balances acidic food
+Chardonnay,White,carbonara,Creamy,Japanese,4,Good,Richer body matches creamy textures
+Sauvignon Blanc,White,shrimp scampi,Seafood,American BBQ,3,Neutral,Crisp acidity suits seafood
+Chardonnay,White,carbonara,Pork,Korean,3,Neutral,Richer body matches creamy textures
+Grüner Veltliner,White,mushroom risotto,Vegetarian,Italian,3,Neutral,Heuristic pairing assessment
+Merlot,Red,carbonara,Pork,Argentinian,2,Poor,Too lean for creamy dish
+Cava,Sparkling,roast lamb,Red Meat,Argentinian,1,Terrible,Delicate wine overwhelmed by red meat
+Cabernet Sauvignon,Red,roast lamb,Red Meat,Mexican,4,Good,Tannic red complements red meat fat
+Malbec,Red,smoked sausage,Smoky BBQ,Ethiopian,3,Neutral,Heuristic pairing assessment
+Syrah/Shiraz,Red,beef stew,Red Meat,Spanish,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,cheese platter,Cheese,French,1,Terrible,Deliberately bad pairing example for contrast
+Sauternes,Dessert,bacon burger,Pork,Mexican,3,Neutral,Heuristic pairing assessment
+Grüner Veltliner,White,mushroom risotto,Vegetarian,German,3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,gazpacho,Acidic,Japanese,4,Good,Acidic wine balances acidic food
+Albariño,White,shrimp scampi,Seafood,Italian,5,Excellent,Crisp acidity suits seafood
+Syrah/Shiraz,Red,bbq brisket,Red Meat,American BBQ,3,Neutral,Tannic red complements red meat fat
+Syrah/Shiraz,Red,grilled burger,Smoky BBQ,American BBQ,4,Good,Heuristic pairing assessment
+Sangiovese,Red,chicken curry,Poultry,Moroccan,1,Terrible,Heavy wine can dominate poultry
+Sauternes,Dessert,sorbet,Dessert,Moroccan,4,Good,Sweet/sparkling pairs with dessert
+Albariño,White,vegetable curry,Vegetarian,Vietnamese,3,Neutral,Heuristic pairing assessment
+Grenache,Red,carbonara,Creamy,Japanese,2,Poor,Too lean for creamy dish
+Cava,Sparkling,fish tacos,Seafood,Ethiopian,3,Neutral,Crisp acidity suits seafood
+Port,Fortified,mac and cheese,Cheese,Vietnamese,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,smoked sausage,Smoky BBQ,Ethiopian,4,Good,Heuristic pairing assessment
+Gamay (Beaujolais),Red,shrimp scampi,Seafood,Middle Eastern,2,Poor,Tannic reds clash with delicate seafood
+Merlot,Red,mixed nuts,Salty Snack,Mexican,3,Neutral,Heuristic pairing assessment
+Cabernet Sauvignon,Red,smoked sausage,Smoky BBQ,Moroccan,3,Neutral,Heuristic pairing assessment
+Port,Fortified,mac and cheese,Cheese,Greek,1,Terrible,Deliberately bad pairing example for contrast
+Malbec,Red,roast lamb,Red Meat,Indian,5,Excellent,Tannic red complements red meat fat
+Syrah/Shiraz,Red,smoked sausage,Smoky BBQ,Japanese,4,Good,Heuristic pairing assessment
+Ice Wine,Dessert,smoked sausage,Smoky BBQ,Ethiopian,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,Indian vindaloo,Spicy,Argentinian,2,Poor,High tannin intensifies spice heat
+Tempranillo,Red,caprese salad,Acidic,Ethiopian,2,Poor,Heuristic pairing assessment
+Pinot Noir,Red,vegetable curry,Vegetarian,German,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Sichuan noodles,Spicy,Middle Eastern,3,Neutral,Heuristic pairing assessment
+Nebbiolo,Red,grilled ribeye,Red Meat,Italian,4,Good,Heuristic pairing assessment
+Champagne,Sparkling,mac and cheese,Cheese,Vietnamese,3,Neutral,Heuristic pairing assessment
+Ice Wine,Dessert,lemon tart,Dessert,German,5,Excellent,Acidic wine balances acidic food
+Nebbiolo,Red,Sichuan noodles,Spicy,Chinese (Sichuan),4,Good,Heuristic pairing assessment
+Grenache,Red,bacon burger,Pork,Chinese (Sichuan),4,Good,Heuristic pairing assessment
+Albariño,White,oysters,Seafood,French,5,Excellent,Idealized perfect pairing example for contrast
+Cava,Sparkling,mixed nuts,Salty Snack,Argentinian,2,Poor,Heuristic pairing assessment
+Pinot Noir,Red,duck à l’orange,Poultry,Vietnamese,5,Excellent,Light/medium red suits richer poultry/pork
+Malbec,Red,bbq ribs,Smoky BBQ,Chinese (Sichuan),3,Neutral,Heuristic pairing assessment
+Sangiovese,Red,vegetable curry,Vegetarian,Japanese,2,Poor,Heuristic pairing assessment
+Riesling (dry),White,Indian vindaloo,Spicy,Thai,3,Neutral,Off-dry sweetness calms spice
+Syrah/Shiraz,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat
+Chardonnay,White,pork tenderloin,Pork,Korean,4,Good,Heuristic pairing assessment
+Cava,Sparkling,oysters,Seafood,Italian,4,Good,Crisp acidity suits seafood
+Merlot,Red,pork tenderloin,Pork,Italian,3,Neutral,Light/medium red suits richer poultry/pork
+Sauternes,Dessert,olives and cheese,Salty Snack,Vietnamese,4,Good,Heuristic pairing assessment
+Cava,Sparkling,grilled salmon,Seafood,Japanese,1,Terrible,Deliberately bad pairing example for contrast
+Zinfandel,Red,smoked sausage,Smoky BBQ,Indian,1,Terrible,Deliberately bad pairing example for contrast
+Viognier,White,cream of mushroom soup,Creamy,Spanish,4,Good,Richer body matches creamy textures
+Malbec,Red,grilled burger,Smoky BBQ,Thai,2,Poor,Heuristic pairing assessment
+Champagne,Sparkling,charcuterie board,Salty Snack,Japanese,3,Neutral,Heuristic pairing assessment
